@@ -180,7 +180,26 @@
         "office": "CEO office",
         "tags": "Ceo,tag1, tag2",
         "isLoggedUser": false,
-        "positionName": "Director of Financial Control"
+        "positionName": "Director of Financial Control",
+          "children": [{
+            "name": "Lucy",
+            "imageUrl": "Images/Lucy.png",
+            "area": "Finance - UK",
+            "profileUrl": "'example.com",
+            "office": "CEO office",
+            "tags": "Ceo,tag1, tag2",
+            "isLoggedUser": false,
+            "positionName": "Accountant"
+          }, {
+            "name": "Lubza",
+            "imageUrl": "Images/Lubza.png",
+            "area": "Finance - UK",
+            "profileUrl": "'example.com",
+            "office": "CEO office",
+            "tags": "Ceo,tag1, tag2",
+            "isLoggedUser": false,
+            "positionName": "Snr. Accountant"
+          }]
       }, {
         "name": "Dan",
         "imageUrl": "Images/.png",
@@ -218,7 +237,44 @@
     "office": "CEO office",
     "tags": "Ceo,tag1, tag2",
     "isLoggedUser": false,
-    "positionName": "Chief Delivery Officer"
+    "positionName": "Chief Delivery Officer",
+    "children": [{
+          "name": "Vishal",
+          "imageUrl": "Images/Vishal.png",
+          "area": "Service Delivery - UK",
+          "profileUrl": "'example.com",
+          "office": "CEO office",
+          "tags": "Ceo,tag1, tag2",
+          "isLoggedUser": false,
+          "positionName": "Director Service Delivery"
+        }, {
+          "name": "Andrew",
+          "imageUrl": "Images/Andrew.png",
+          "area": "Search - AUS",
+          "profileUrl": "'example.com",
+          "office": "CEO office",
+          "tags": "Ceo,tag1, tag2",
+          "isLoggedUser": false,
+          "positionName": "Director Search"
+        },{
+          "name": "JD",
+          "imageUrl": "Images/JD.png",
+          "area": "Product - USA",
+          "profileUrl": "'example.com",
+          "office": "CEO office",
+          "tags": "Ceo,tag1, tag2",
+          "isLoggedUser": false,
+          "positionName": "Director SilverCore"
+        },{
+          "name": "Julie",
+          "imageUrl": "Images/Julie.png",
+          "area": "Eng. - USA",
+          "profileUrl": "'example.com",
+          "office": "CEO office",
+          "tags": "Ceo,tag1, tag2",
+          "isLoggedUser": false,
+          "positionName": "VP Eng."
+        }]
       }, {
     "name": "TBC",
     "imageUrl": "",
