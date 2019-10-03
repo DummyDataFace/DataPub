@@ -7,7 +7,9 @@
   "tags": "Ceo,tag1,manager,cto",
   "isLoggedUser": false,
   "positionName": "Chief Executive Officer ",
-  "children": [{
+  "children": 
+
+    [{
     "name": "Dave",
     "imageUrl": "Images/Dave.png",
     "area": "Corporate",
@@ -25,7 +27,8 @@
     "tags": "Ceo,tag1, tag2",
     "isLoggedUser": false,
     "positionName": "CPO ",
-    "children": [{
+    "children": 
+      [{
       "name": "Tom",
       "imageUrl": "Images/Tom.png",
       "area": "Corporate",
@@ -44,42 +47,43 @@
       "isLoggedUser": false,
       "positionName": "HR Advisor",
       }, {
-        "name": "Matt",
-        "imageUrl": "Images/Matt.png",
-        "area": "Corporate",
-        "profileUrl": "'example.com",
-        "office": "CEO office",
-        "tags": "Ceo,tag1, tag2",
-        "isLoggedUser": false,
-        "positionName": "Junior sales manager"
+      "name": "Matt",
+      "imageUrl": "Images/Matt.png",
+      "area": "Corporate",
+      "profileUrl": "'example.com",
+      "office": "CEO office",
+      "tags": "Ceo,tag1, tag2",
+      "isLoggedUser": false,
+      "positionName": "Junior sales manager"
       }, {
-        "name": "Shirley",
-        "imageUrl": "Images/Shirley.png",
+      "name": "Shirley",
+      "imageUrl": "Images/Shirley.png",
+      "area": "Corporate",
+      "profileUrl": "'example.com",
+      "office": "CEO office",
+      "tags": "Ceo,tag1, tag2",
+      "isLoggedUser": false,
+      "positionName": "PA to CEO",
+      "children": 
+        [{
+        "name": "Tomek",
+        "imageUrl": "Images/Tomek.png",
         "area": "Corporate",
         "profileUrl": "'example.com",
         "office": "CEO office",
         "tags": "Ceo,tag1, tag2",
         "isLoggedUser": false,
-        "positionName": "PA to CEO",
-        "children": [{
-          "name": "Tomek",
-          "imageUrl": "Images/Tomek.png",
-          "area": "Corporate",
-          "profileUrl": "'example.com",
-          "office": "CEO office",
-          "tags": "Ceo,tag1, tag2",
-          "isLoggedUser": false,
-          "positionName": "Office Administrator"
-          }],
-      
-        "name": "Victoria",
-        "imageUrl": "Images/Victoria.png",
-        "area": "Corporate",
-        "profileUrl": "'example.com",
-        "office": "CEO office",
-        "tags": "Ceo,tag1, tag2",
-        "isLoggedUser": false,
-        "positionName": "Recruitment & Culture Manager"
+        "positionName": "Office Administrator"
+        }],
+      },{
+      "name": "Victoria",
+      "imageUrl": "Images/Victoria.png",
+      "area": "Corporate",
+      "profileUrl": "'example.com",
+      "office": "CEO office",
+      "tags": "Ceo,tag1, tag2",
+      "isLoggedUser": false,
+      "positionName": "Recruitment & Culture Manager"
       }]
     }, {
       "name": "West Adam",
