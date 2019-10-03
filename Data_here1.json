@@ -51,7 +51,26 @@
       "office": "CEO office",
       "tags": "Ceo,tag1, tag2",
       "isLoggedUser": false,
-      "positionName": "HR Advisor"
+      "positionName": "HR Advisor",
+      "children": [{
+        "name": "Matt",
+        "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+        "area": "Corporate",
+        "profileUrl": "'example.com",
+        "office": "CEO office",
+        "tags": "Ceo,tag1, tag2",
+        "isLoggedUser": false,
+        "positionName": "Junior sales manager"
+      }, {
+        "name": "Dodsworth Anne",
+        "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+        "area": "Corporate",
+        "profileUrl": "'example.com",
+        "office": "CEO office",
+        "tags": "Ceo,tag1, tag2",
+        "isLoggedUser": false,
+        "positionName": "Junior sales manager"
+      }]
     }, {
       "name": "West Adam",
       "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
