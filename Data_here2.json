@@ -1,7 +1,7 @@
 {
   "name": "Aaron Gowell",
   "imageUrl": "Images/Aaron.png",
-  "area": "Corporate",
+  "area": "Board Member",
   "profileUrl": "'example.com",
   "office": "CTO office",
   "tags": "Ceo,tag1,manager,cto",
@@ -10,7 +10,7 @@
   "children": [{
     "name": "Dave",
     "imageUrl": "Images/Dave.png",
-    "area": "Corporate",
+    "area": "Management",
     "profileUrl": "'example.com",
     "office": "CEO office",
     "tags": "Ceo,tag1, tag2",
@@ -19,7 +19,7 @@
       }, {
     "name": "CT",
     "imageUrl": "Images/CT.png",
-    "area": "Corporate",
+    "area": "Management",
     "profileUrl": "'example.com",
     "office": "London",
     "tags": "Ceo,tag1, tag2",
@@ -28,7 +28,7 @@
     "children": [{
       "name": "Tom",
       "imageUrl": "Images/Tom.png",
-      "area": "Corporate",
+      "area": "HR",
       "profileUrl": "'example.com",
       "office": "CEO office",
       "tags": "Ceo,tag1, tag2",
@@ -37,7 +37,7 @@
       },{
       "name": "Matt",
       "imageUrl": "Images/Matt.png",
-      "area": "Corporate",
+      "area": "HR",
       "profileUrl": "'example.com",
       "office": "CEO office",
       "tags": "Ceo,tag1, tag2",
@@ -46,7 +46,7 @@
       },{
       "name": "Rach",
       "imageUrl": "Images/Rach.png",
-      "area": "Corporate",
+      "area": "HR",
       "profileUrl": "'example.com",
       "office": "CEO office",
       "tags": "Ceo,tag1, tag2",
@@ -55,7 +55,7 @@
     }, {
       "name": "Shirley",
       "imageUrl": "Images/Shirley.png",
-      "area": "Corporate",
+      "area": "HR",
       "profileUrl": "'example.com",
       "office": "CEO office",
       "tags": "Ceo,tag1, tag2",
@@ -64,7 +64,7 @@
       "children": [{
         "name": "Tomek",
         "imageUrl": "Images/Tomek",
-        "area": "Corporate",
+        "area": "HR",
         "profileUrl": "'example.com",
         "office": "CEO office",
         "tags": "Ceo,tag1, tag2",
@@ -74,7 +74,7 @@
     }, {
       "name": "Victoria",
       "imageUrl": "Images/Victoria.png",
-      "area": "Corporate",
+      "area": "HR",
       "profileUrl": "'example.com",
       "office": "CEO office",
       "tags": "Ceo,tag1, tag2",
@@ -83,7 +83,7 @@
     },{
       "name": "Eva Widell",
       "imageUrl": "Images/Eva.png",
-      "area": "Corporate",
+      "area": "HR - Sweden",
       "profileUrl": "'example.com",
       "office": "CEO office",
       "tags": "Ceo,tag1, tag2",
@@ -92,16 +92,16 @@
       "children": [{
         "name": "Kerstin",
         "imageUrl": "Images/Kerstin.png",
-        "area": "Corporate",
+        "area": "HR - Sweden",
         "profileUrl": "'example.com",
         "office": "CEO office",
         "tags": "Ceo,tag1, tag2",
         "isLoggedUser": false,
         "positionName": "Junior Inovator"
       }, {
-        "name": "Regina Murphy",
+        "name": "Ulrica",
         "imageUrl": "Images/Ulrica.png",
-        "area": "Corporate",
+        "area": "HR - Sweden",
         "profileUrl": "'example.com",
         "office": "CEO office",
         "tags": "Ceo,tag1, tag2",
@@ -110,7 +110,7 @@
       }, {
         "name": "Laila",
         "imageUrl": "Images/Laila.png",
-        "area": "Corporate",
+        "area": "HR - Sweden",
         "profileUrl": "'example.com",
         "office": "CEO office",
         "tags": "Ceo,tag1, tag2",
