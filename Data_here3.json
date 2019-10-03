@@ -1,0 +1,232 @@
+{
+  "name": "Aaron Gowell",
+  "imageUrl": "Images/Aaron.png",
+  "area": "Board Member",
+  "profileUrl": "'example.com",
+  "office": "CTO office",
+  "tags": "Ceo,tag1,manager,cto",
+  "isLoggedUser": false,
+  "positionName": "Chief Executive Officer ",
+  "children": [{
+    "name": "Dave",
+    "imageUrl": "Images/Dave.png",
+    "area": "Management",
+    "profileUrl": "'example.com",
+    "office": "CEO office",
+    "tags": "Ceo,tag1, tag2",
+    "isLoggedUser": false,
+    "positionName": "SVP UK Market"
+      }, {
+    "name": "CT",
+    "imageUrl": "Images/CT.png",
+    "area": "Management",
+    "profileUrl": "'example.com",
+    "office": "London",
+    "tags": "Ceo,tag1, tag2",
+    "isLoggedUser": false,
+    "positionName": "CPO ",
+    "children": [{
+      "name": "Tom",
+      "imageUrl": "Images/Tom.png",
+      "area": "HR",
+      "profileUrl": "'example.com",
+      "office": "CEO office",
+      "tags": "Ceo,tag1, tag2",
+      "isLoggedUser": false,
+      "positionName": "HR Manager"
+      },{
+      "name": "Matt",
+      "imageUrl": "Images/Matt.png",
+      "area": "HR",
+      "profileUrl": "'example.com",
+      "office": "CEO office",
+      "tags": "Ceo,tag1, tag2",
+      "isLoggedUser": false,
+      "positionName": "HR Manager"
+      },{
+      "name": "Rach",
+      "imageUrl": "Images/Rach.png",
+      "area": "HR",
+      "profileUrl": "'example.com",
+      "office": "CEO office",
+      "tags": "Ceo,tag1, tag2",
+      "isLoggedUser": false,
+      "positionName": "HR Advisor"
+    }, {
+      "name": "Shirley",
+      "imageUrl": "Images/Shirley.png",
+      "area": "HR",
+      "profileUrl": "'example.com",
+      "office": "CEO office",
+      "tags": "Ceo,tag1, tag2",
+      "isLoggedUser": false,
+      "positionName": "PA to CEO",
+      "children": [{
+        "name": "Tomek",
+        "imageUrl": "Images/Tomek.png",
+        "area": "HR",
+        "profileUrl": "'example.com",
+        "office": "CEO office",
+        "tags": "Ceo,tag1, tag2",
+        "isLoggedUser": false,
+        "positionName": "Office Administrator"
+      }]
+    }, {
+      "name": "Victoria",
+      "imageUrl": "Images/Victoria.png",
+      "area": "HR",
+      "profileUrl": "'example.com",
+      "office": "CEO office",
+      "tags": "Ceo,tag1, tag2",
+      "isLoggedUser": false,
+      "positionName": "Recruitment & Culture Manager"
+    },{
+      "name": "Eva Widell",
+      "imageUrl": "Images/Eva.png",
+      "area": "HR - Sweden",
+      "profileUrl": "'example.com",
+      "office": "CEO office",
+      "tags": "Ceo,tag1, tag2",
+      "isLoggedUser": false,
+      "positionName": "VP People & Organisation",
+      "children": [{
+        "name": "Kerstin",
+        "imageUrl": "Images/Kerstin.png",
+        "area": "HR - Sweden",
+        "profileUrl": "'example.com",
+        "office": "CEO office",
+        "tags": "Ceo,tag1, tag2",
+        "isLoggedUser": false,
+        "positionName": "People & Org. Manager"
+      }, {
+        "name": "Ulrica",
+        "imageUrl": "Images/Ulrica.png",
+        "area": "HR - Sweden",
+        "profileUrl": "'example.com",
+        "office": "CEO office",
+        "tags": "Ceo,tag1, tag2",
+        "isLoggedUser": false,
+        "positionName": "People & Facility Manager"
+      }, {
+        "name": "Laila",
+        "imageUrl": "Images/Laila.png",
+        "area": "HR - Sweden",
+        "profileUrl": "'example.com",
+        "office": "CEO office",
+        "tags": "Ceo,tag1, tag2",
+        "isLoggedUser": false,
+        "positionName": "People & Facility Manager"
+      }]
+    }]
+  },{
+    "name": "Cameron",
+    "imageUrl": "Images/Cameron.png",
+    "area": "Management",
+    "profileUrl": "'example.com",
+    "office": "CEO office",
+    "tags": "Ceo,tag1, tag2",
+    "isLoggedUser": false,
+    "positionName": "CCO & MD Sweden"
+      },{
+    "name": "Will",
+    "imageUrl": "Images/Will.png",
+    "area": "Management",
+    "profileUrl": "'example.com",
+    "office": "CEO office",
+    "tags": "Ceo,tag1, tag2",
+    "isLoggedUser": false,
+    "positionName": "Co-founder & President"
+      },{
+    "name": "Pierre",
+    "imageUrl": "Images/Pierre.png",
+    "area": "Management",
+    "profileUrl": "'example.com",
+    "office": "CEO office",
+    "tags": "Ceo,tag1, tag2",
+    "isLoggedUser": false,
+    "positionName": "CFO",
+    "children": [{
+        "name": "Anna",
+        "imageUrl": "Images/Anna.png",
+        "area": "Finance - Sweden",
+        "profileUrl": "'example.com",
+        "office": "CEO office",
+        "tags": "Ceo,tag1, tag2",
+        "isLoggedUser": false,
+        "positionName": "VP Finance & Settlement"
+      }, {
+        "name": "Itesh",
+        "imageUrl": "Images/Itesh.png",
+        "area": "Corp. IT",
+        "profileUrl": "'example.com",
+        "office": "CEO office",
+        "tags": "Ceo,tag1, tag2",
+        "isLoggedUser": false,
+        "positionName": "IT Manager"
+      }, {
+        "name": "TBC",
+        "imageUrl": "Images/.png",
+        "area": "Security",
+        "profileUrl": "'example.com",
+        "office": "CEO office",
+        "tags": "Ceo,tag1, tag2",
+        "isLoggedUser": false,
+        "positionName": "Security & Compliance Manager"
+      }, {
+        "name": "Mark",
+        "imageUrl": "Images/Mark.png",
+        "area": "Finance - UK",
+        "profileUrl": "'example.com",
+        "office": "CEO office",
+        "tags": "Ceo,tag1, tag2",
+        "isLoggedUser": false,
+        "positionName": "Director of Financial Control"
+      }, {
+        "name": "Dan",
+        "imageUrl": "Images/.png",
+        "area": "Legal - UK",
+        "profileUrl": "'example.com",
+        "office": "CEO office",
+        "tags": "Ceo,tag1, tag2",
+        "isLoggedUser": false,
+        "positionName": "Head of Legal"
+      }, {
+        "name": "Tobias",
+        "imageUrl": "Images/Tobias.png",
+        "area": "Finance - UK",
+        "profileUrl": "'example.com",
+        "office": "CEO office",
+        "tags": "Ceo,tag1, tag2",
+        "isLoggedUser": false,
+        "positionName": "Finance & Strategy Manager",
+        "children": [{
+          "name": "Rupert",
+          "imageUrl": "Images/Rupert.png",
+          "area": "Finance - UK",
+          "profileUrl": "'example.com",
+          "office": "CEO office",
+          "tags": "Ceo,tag1, tag2",
+          "isLoggedUser": false,
+          "positionName": "Commercial & Finance Analyst"
+        }]
+      }]
+      }, {
+    "name": "Selene",
+    "imageUrl": "Images/Selene.png",
+    "area": "Management",
+    "profileUrl": "'example.com",
+    "office": "CEO office",
+    "tags": "Ceo,tag1, tag2",
+    "isLoggedUser": false,
+    "positionName": "Chief Delivery Officer"
+      }, {
+    "name": "TBC",
+    "imageUrl": "",
+    "area": "Management",
+    "profileUrl": "'example.com",
+    "office": "CEO office",
+    "tags": "Ceo,tag1, tag2",
+    "isLoggedUser": false,
+    "positionName": "CTO"
+      }]
+}
