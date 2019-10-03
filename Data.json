@@ -26,8 +26,26 @@
     "isLoggedUser": false,
     "positionName": "CPO ",
     "children": [{
+      "name": "Tom",
+      "imageUrl": "Images/Tom.png",
+      "area": "Corporate",
+      "profileUrl": "'example.com",
+      "office": "CEO office",
+      "tags": "Ceo,tag1, tag2",
+      "isLoggedUser": false,
+      "positionName": "HR Advisor",
+      "children": [{
+        "name": "Matt",
+        "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+        "area": "Corporate",
+        "profileUrl": "'example.com",
+        "office": "CEO office",
+        "tags": "Ceo,tag1, tag2",
+        "isLoggedUser": false,
+        "positionName": "HR Manager"
+      }, {
       "name": "Rach",
-      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+      "imageUrl": "Images/Rach.png",
       "area": "Corporate",
       "profileUrl": "'example.com",
       "office": "CEO office",
