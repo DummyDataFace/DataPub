@@ -51,8 +51,7 @@
       "office": "CEO office",
       "tags": "Ceo,tag1, tag2",
       "isLoggedUser": false,
-      "positionName": "HR Advisor",
-      
+      "positionName": "HR Advisor"
     }, {
       "name": "West Adam",
       "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
