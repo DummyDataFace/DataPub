@@ -63,7 +63,7 @@
       "positionName": "PA to CEO",
       "children": [{
         "name": "Tomek",
-        "imageUrl": "Images/Tomek",
+        "imageUrl": "Images/Tomek.png",
         "area": "HR",
         "profileUrl": "'example.com",
         "office": "CEO office",
@@ -118,7 +118,52 @@
         "positionName": "Senior developer"
       }]
     }]
-  }, {
+  },{
+    "name": "Cameron",
+    "imageUrl": "Images/Cameron.png",
+    "area": "Management",
+    "profileUrl": "'example.com",
+    "office": "CEO office",
+    "tags": "Ceo,tag1, tag2",
+    "isLoggedUser": false,
+    "positionName": "CCO & MD Sweden"
+      },{
+    "name": "Will",
+    "imageUrl": "Images/Will.png",
+    "area": "Management",
+    "profileUrl": "'example.com",
+    "office": "CEO office",
+    "tags": "Ceo,tag1, tag2",
+    "isLoggedUser": false,
+    "positionName": "Co-founder & President"
+      },{
+    "name": "Pierre",
+    "imageUrl": "Images/Pierre.png",
+    "area": "Management",
+    "profileUrl": "'example.com",
+    "office": "CEO office",
+    "tags": "Ceo,tag1, tag2",
+    "isLoggedUser": false,
+    "positionName": "CFO"
+      }, {
+    "name": "Selene",
+    "imageUrl": "Images/Selene.png",
+    "area": "Management",
+    "profileUrl": "'example.com",
+    "office": "CEO office",
+    "tags": "Ceo,tag1, tag2",
+    "isLoggedUser": false,
+    "positionName": "Chief Delivery Officer"
+      }, {
+    "name": "TBC",
+    "imageUrl": "",
+    "area": "Management",
+    "profileUrl": "'example.com",
+    "office": "CEO office",
+    "tags": "Ceo,tag1, tag2",
+    "isLoggedUser": false,
+    "positionName": "CTO"
+      },  {
     "name": " Leverling Janet",
     "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
     "area": "Corporate",
