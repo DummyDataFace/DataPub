@@ -1,10 +1,10 @@
 {
-  "name": "Aaron",
+  "name": "Aaron Gowell",
   "imageUrl": "Images/Aaron.png",
   "area": "Board Member",
   "profileUrl": "'example.com",
-  "office": "CEO office",
-  "tags": "CEO, Management, UK",
+  "office": "CTO office",
+  "tags": "Ceo,tag1,manager,cto",
   "isLoggedUser": false,
   "positionName": "Chief Executive Officer ",
   "children": [{
@@ -230,16 +230,7 @@
           "tags": "Agency, Commercial, UK, CAM",
           "isLoggedUser": false,
           "positionName": "CAM"
-          }],
-      {
-        "name": "Per",
-        "imageUrl": "Images/PER.png",
-        "area": "Tech. - Swe.",
-        "profileUrl": "'example.com",
-        "office": "Swe.",
-        "tags": "Technology, , UK, CAM",
-        "isLoggedUser": false,
-        "positionName": "CAM"
+          }]
       }]
       },{
     "name": "Will",
@@ -351,7 +342,7 @@
     "office": "CEO office",
     "tags": "Product, USA",
     "isLoggedUser": false,
-    "positionName": "VP Product",
+    "positionName": "Chief Delivery Officer",
     "children": [{
           "name": "Vishal",
           "imageUrl": "Images/Vishal.png",
