@@ -7,17 +7,7 @@
   "tags": "CEO, Management, UK",
   "isLoggedUser": false,
   "positionName": "Chief Executive Officer ",
-  "children": [
-    {
-      "name": "MD Sweden",
-      "imageUrl": "Images/.png",
-      "area": "Management",
-      "profileUrl": "'example.com",
-      "office": "SWE",
-      "tags": "AB, Sweden, Management",
-      "isLoggedUser": false,
-      "positionName": "MD Sweden"
-    }, {
+  "children": [{
     "name": "Dave",
     "imageUrl": "Images/Dave.png",
     "area": "Management",
