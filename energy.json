@@ -1,13 +1,13 @@
 {"nodes":[
-	{"name":"Revenue BLB"},
-{"name":"Bio-conversion"},
+	{"name":"Revenue Agency"},
+{"name":"COGS"},
 {"name":"Here"},
 {"name":"Losses"},
 {"name":"Solid"},
 {"name":"Gas"},
 	{"name":"Revenue AB"},
-{"name":"Biomass imports"},
-{"name":"Coal imports"},
+{"name":"Revenue Search"},
+{"name":"EBIT"},
 {"name":"Coal"},
 {"name":"Coal reserves"},
 {"name":"District heating"},
@@ -53,6 +53,6 @@
 {"source":1,"target":3,"value":26.862},
 {"source":1,"target":4,"value":280.322},
 {"source":1,"target":5,"value":81.144},
-{"source":6,"target":2,"value":35},
-{"source":7,"target":8,"value":35}
+{"source":6,"target":1,"value":35},
+{"source":7,"target":1,"value":35}
 ]}
