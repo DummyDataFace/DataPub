@@ -1,11 +1,11 @@
 {"nodes":[
-	{"name":"Revenue Agency"},
+{"name":"Revenue Agency"},
 {"name":"COGS"},
-{"name":"Here"},
-{"name":"Losses"},
-{"name":"Solid"},
+{"name":"Salaries"},
+{"name":"Opex"},
+{"name":"EBITDA"},
 {"name":"Gas"},
-	{"name":"Revenue AB"},
+{"name":"Revenue AB"},
 {"name":"Revenue Search"},
 {"name":"EBIT"},
 {"name":"Coal"},
@@ -48,7 +48,7 @@
 {"name":"Wave"}
 ],
 "links":[
-{"source":0,"target":1,"value":124.729},
+{"source":0,"target":1,"value":3},
 {"source":1,"target":2,"value":0.597},
 {"source":1,"target":3,"value":26.862},
 {"source":1,"target":4,"value":280.322},
