@@ -4,7 +4,7 @@
 {"name":"Salaries"},
 {"name":"Opex"},
 {"name":"EBITDA"},
-{"name":"Gas"},
+{"name":"Revenue TOC"},
 {"name":"Revenue AB"},
 {"name":"Revenue Search"},
 {"name":"EBIT"},
@@ -54,5 +54,6 @@
 {"source":1,"target":4,"value":280.322},
 {"source":1,"target":5,"value":81.144},
 {"source":6,"target":1,"value":35},
+{"source":1,"target":8,"value":35}, 
 {"source":7,"target":1,"value":35}
 ]}
